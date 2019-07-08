@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="image_poster">Image poster</string>
+    <string name="date_relealesed">date_relealesed</string>
+    <string name="user_score">87%</string>
+    <string name="runtime">1h 45m</string>
+    <string name="star_icon">star_icon</string>
+    <string name="timer_icon">timer_icon</string>
+    <string name="title">Title</string>
+    <string name="status">Status</string>
+    <string name="status_detail">Released</string>
+    <string name="icon_released_detail">icon_released_detail</string>
+    <string name="first_line">first_line</string>
+    <string name="second_line">second_line</string>
+    <string name="title_budgets">Budget</string>
+    <string name="budget">$4,000,000,00</string>
+    <string name="title_revenue">Revenue</string>
+    <string name="revenue">$19,000,000,00</string>
+    <string name="title_overview">Overview</string>
+    <string name="third_line">third_line</string>
+    <string name="languange">English</string>
+    <string name="icon_language">icon_language</string>
+    <string name="genres">Genres</string>
+    <string name="genre_detail">Genre Detail</string>
+    <string name="detail_overview">Detail Overview</string>
+    <string name="title_crew">Crew</string>
+    <string name="crew_detail">Crew Detail</string>
+    <string name="change_language_settings">Language Configuration</string>
+</resources>
