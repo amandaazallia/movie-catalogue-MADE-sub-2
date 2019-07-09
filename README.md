@@ -28,7 +28,7 @@ Fitur yang harus ada pada aplikasi:
 
 
  
-### Authors
+### Author
 _Amanda Azallia_
 
 
